@@ -1,0 +1,39 @@
+body{
+    font-family: 'DM Serif Display', serif;
+}
+.icon{
+    height: 50px;
+    width: 50px;
+}
+.facebook-icon{
+    height: 30px;
+}
+.t-title{
+    margin-top: 100px;
+    text-align: center;
+}
+.h-title{
+    
+    text-align: center;}
+.img{
+    width: 40%;
+    height: 2 00px;
+    border: 5px solid whitesmoke;
+    border-radius: 10px;
+}
+.p-mathod{
+    width: 100px;
+}
+/* .all-mathid{
+    display: grid;
+    grid-gap: 10px;
+    grid-template-columns: repeat(2, 1fr);
+} */
+.chakbox{
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+}
+footer{
+    margin-top: 100px;
+    text-align: center;
+}
